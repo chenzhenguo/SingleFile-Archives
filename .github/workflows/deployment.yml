@@ -32,4 +32,4 @@ jobs:
         personal_token: ${{ secrets.SECRETS_ARCHIVES }}
         external_repository: chenzhenguo/chenzhenguo.github.io
         PUBLISH_BRANCH: master
-        PUBLISH_DIR: ./public
+        PUBLISH_DIR: ./SingleFile-Archives
